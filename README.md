@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arsanyos&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,ts,react,nextjs,tailwind,materialui,redux,stackoverflow,git,figma,wasm)](https://skillicons.dev)
