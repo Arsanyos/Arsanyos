@@ -1,5 +1,6 @@
 ### Hi there 👋, I'm Arsanyos.
 
+
 <!--
 **Arsanyos/Arsanyos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,5 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arsanyos&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
-Tech-Stack
+<br/>
+---------------<br/>
+**Tech-Stack**<br/>
+----------------<br/>
+<br/>
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,materialui,redux,stackoverflow,git,figma)](https://skillicons.dev)
